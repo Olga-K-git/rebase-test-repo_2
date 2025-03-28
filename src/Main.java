@@ -13,3 +13,4 @@ public class Main {
         }
     }
 }
+//Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
